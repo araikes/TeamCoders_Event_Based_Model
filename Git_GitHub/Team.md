@@ -6,5 +6,5 @@
 
 - Jhony Mejia (UCSF - RabinoviciLab, Biomedical Engineering - 
 Neuroimaging)
-- member 2
+- Beth Wan (UCL - PhD Nephrology/Bioinformatics)
 - member 3
