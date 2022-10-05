@@ -4,6 +4,7 @@
 
 ### Team's members
 
-- member 1
+- Jhony Mejia (UCSF - RabinoviciLab, Biomedical Engineering - 
+Neuroimaging)
 - member 2
 - member 3
